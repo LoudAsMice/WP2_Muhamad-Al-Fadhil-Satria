@@ -1,0 +1,204 @@
+CRITICAL - 2022-03-29 01:45:01 --> Too few arguments to function App\Controllers\Latihan1::penjumlahan(), 0 passed in C:\xampp\htdocs\codeigniter\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 01:45:09 --> Undefined property: App\Controllers\Latihan1::$load
+#0 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan('2', '6')
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#3 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 01:45:37 --> Undefined property: App\Controllers\Latihan1::$load
+#0 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan('2', '6')
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#3 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 01:47:42 --> Undefined property: App\Controllers\Latihan1::$load
+#0 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan('2', '5')
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#3 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 02:02:33 --> Undefined property: App\Controllers\Latihan1::$load
+#0 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan('2', '5')
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#3 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 02:02:37 --> Too few arguments to function App\Controllers\Latihan1::penjumlahan(), 0 passed in C:\xampp\htdocs\codeigniter\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 02:03:00 --> Too few arguments to function App\Controllers\Latihan1::penjumlahan(), 0 passed in C:\xampp\htdocs\codeigniter\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 02:04:53 --> include(C:\xampp\htdocs\codeigniter\app\Models): Failed to open stream: Permission denied
+#0 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xamp...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(4): include()
+#2 C:\xampp\htdocs\codeigniter\system\Router\Router.php(518): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('latihan1/penjum...')
+#4 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('latihan1/penjum...')
+#5 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#6 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-29 02:04:58 --> include(C:\xampp\htdocs\codeigniter\app\Models): Failed to open stream: Permission denied
+#0 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xamp...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(4): include()
+#2 C:\xampp\htdocs\codeigniter\system\Router\Router.php(518): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('latihan1/penjum...')
+#4 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('latihan1/penjum...')
+#5 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#6 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-29 02:08:38 --> Undefined property: App\Controllers\Latihan1::$Model_latihan1
+#0 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 17)
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan('1', '2')
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#3 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 02:10:06 --> Too few arguments to function App\Controllers\Latihan1::penjumlahan(), 1 passed in C:\xampp\htdocs\codeigniter\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan('10')
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 02:11:21 --> Too few arguments to function App\Controllers\Latihan1::penjumlahan(), 1 passed in C:\xampp\htdocs\codeigniter\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan('10')
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 02:11:34 --> Too few arguments to function App\Controllers\Latihan1::penjumlahan(), 0 passed in C:\xampp\htdocs\codeigniter\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 02:24:35 --> Undefined variable $nilai1
+#0 C:\xampp\htdocs\codeigniter\app\Views\view_latihan1.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11)
+#1 C:\xampp\htdocs\codeigniter\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('view_latihan1', Array, true)
+#4 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(29): view('view_latihan1')
+#5 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan2('1', '65')
+#6 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#7 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 02:31:35 --> Undefined variable $nilai11
+#0 C:\xampp\htdocs\codeigniter\app\Views\view_latihan1.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11)
+#1 C:\xampp\htdocs\codeigniter\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('view_latihan1', Array, true)
+#4 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(28): view('view_latihan1', Array)
+#5 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan2('20', '65')
+#6 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#7 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 02:53:54 --> Invalid file: view_from_matakuliah.php
+#0 C:\xampp\htdocs\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_from_matak...')
+#1 C:\xampp\htdocs\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('view_from_matak...', Array, true)
+#2 C:\xampp\htdocs\codeigniter\app\Controllers\Latihan1.php(10): view('view_from_matak...')
+#3 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Latihan1->index()
+#4 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#5 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 03:28:23 --> Array callback must have exactly two elements
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 03:34:02 --> Array callback must have exactly two elements
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 03:34:25 --> Array callback must have exactly two elements
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 03:35:37 --> Method name must be a string
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 03:38:43 --> Array callback must have exactly two elements
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 03:38:46 --> Array callback must have exactly two elements
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 03:43:43 --> Method name must be a string
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 03:43:52 --> Method name must be a string
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 03:44:15 --> Method name must be a string
+#0 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 03:50:37 --> Array to string conversion
+#0 C:\xampp\htdocs\codeigniter\app\Controllers\Matakuliah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#3 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 03:53:50 --> Array to string conversion
+#0 C:\xampp\htdocs\codeigniter\app\Controllers\Matakuliah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#3 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 03:54:59 --> Undefined array key "kode"
+#0 C:\xampp\htdocs\codeigniter\app\Controllers\Matakuliah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#3 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 03:55:06 --> Undefined array key "kode"
+#0 C:\xampp\htdocs\codeigniter\app\Controllers\Matakuliah.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#2 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#3 C:\xampp\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
