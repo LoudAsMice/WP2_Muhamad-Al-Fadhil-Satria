@@ -13,16 +13,16 @@
     <div id="wrapper">
         <header>
             <hgroup>
-                <h1>RentalBuku.net</h1>
+                <h1>LoudAsMice</h1>
                 <h3>Membuat Template sederhana dengan CodeIgniter</h3>
             </hgroup>
             <nav>
                 <ul>
                     <li>
-                        <a href="#">Home</a>
+                        <a href="../../../WP2_Muhamad-Al-Fadhil-Satria/public/web">Home</a>
                     </li>
                     <li>
-                        <a href="web/about">About</a>
+                        <a href="../../../WP2_Muhamad-Al-Fadhil-Satria/public/web/about">About</a>
                     </li>
                 </ul>
             </nav>

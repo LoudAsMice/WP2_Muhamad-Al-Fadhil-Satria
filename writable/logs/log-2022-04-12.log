@@ -1,0 +1,18 @@
+CRITICAL - 2022-04-12 01:01:23 --> Uninitialized string offset 0
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(797): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized s...', 'C:\\xampp\\htdocs...', 797)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-12 01:02:13 --> Uninitialized string offset 0
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(797): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized s...', 'C:\\xampp\\htdocs...', 797)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-12 01:05:23 --> Too few arguments to function App\Controllers\Latihan1::penjumlahan(), 0 passed in C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php on line 832 and exactly 2 expected
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Latihan1->penjumlahan()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
