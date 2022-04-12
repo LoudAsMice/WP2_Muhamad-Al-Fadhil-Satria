@@ -16,3 +16,327 @@ CRITICAL - 2022-04-12 01:05:23 --> Too few arguments to function App\Controllers
 #2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
 #4 {main}
+CRITICAL - 2022-04-12 01:34:20 --> Undefined property: App\Controllers\Matakuliah::$form_validation
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-12 01:56:29 --> Undefined variable $kode
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_data_matakuliah.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_data_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(25): view('view_data_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 01:57:14 --> Undefined variable $kode
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_data_matakuliah.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_data_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(25): view('view_data_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 01:57:28 --> Undefined variable $kode
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_data_matakuliah.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_data_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(25): view('view_data_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 01:57:48 --> Undefined variable $kode
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_data_matakuliah.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_data_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(25): view('view_data_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 01:59:25 --> Undefined variable $kode
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_data_matakuliah.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_data_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(19): view('view_data_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 02:08:29 --> Undefined variable $kode
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_data_matakuliah.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_data_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(19): view('view_data_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 02:08:52 --> Undefined variable $kode
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_data_matakuliah.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_data_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(19): view('view_data_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 02:08:56 --> Undefined variable $kode
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_data_matakuliah.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_data_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(19): view('view_data_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 02:24:23 --> Undefined variable $validasi
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_form_matakuliah.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_form_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(36): view('view_form_matak...', Array)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 02:24:40 --> Undefined variable $validasi
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_form_matakuliah.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_form_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(36): view('view_form_matak...', Array)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 02:24:42 --> Object of class CodeIgniter\Validation\Validation could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_form_matak...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(14): view('view_form_matak...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-12 02:24:44 --> Object of class CodeIgniter\Validation\Validation could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_form_matak...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(14): view('view_form_matak...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-12 02:24:59 --> Undefined variable $validasi
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_form_matakuliah.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_form_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(36): view('view_form_matak...', Array)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 02:32:24 --> Kode Matakuliah Harus Diisi is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Kode Matakuliah...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('kode', 'kode', '', Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(31): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-12 02:32:28 --> Kode Matakuliah Harus Diisi is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Kode Matakuliah...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('kode', 'kode', '', Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(31): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-12 02:35:05 --> kode is not a valid Validation template.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(485): CodeIgniter\Validation\Exceptions\ValidationException::forInvalidTemplate('kode')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(32): CodeIgniter\Validation\Validation->listErrors('kode')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-12 02:35:19 --> CodeIgniter\Config\Services::validation(): Argument #1 ($config) must be of type ?Config\Validation, string given, called in C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php on line 248
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php(248): CodeIgniter\Config\Services::validation('kode')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(32): CodeIgniter\Config\BaseService::__callStatic('validation', Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-12 02:35:23 --> CodeIgniter\Config\Services::validation(): Argument #1 ($config) must be of type ?Config\Validation, string given, called in C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php on line 248
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php(248): CodeIgniter\Config\Services::validation('kode')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(32): CodeIgniter\Config\BaseService::__callStatic('validation', Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-12 02:35:36 --> CodeIgniter\Config\Services::validation(): Argument #1 ($config) must be of type ?Config\Validation, array given, called in C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php on line 248
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php(248): CodeIgniter\Config\Services::validation(Array)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(32): CodeIgniter\Config\BaseService::__callStatic('validation', Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-12 02:35:40 --> CodeIgniter\Config\Services::validation(): Argument #1 ($config) must be of type ?Config\Validation, array given, called in C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php on line 248
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php(248): CodeIgniter\Config\Services::validation(Array)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(32): CodeIgniter\Config\BaseService::__callStatic('validation', Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-12 02:35:48 --> CodeIgniter\Config\Services::validation(): Argument #1 ($config) must be of type ?Config\Validation, array given, called in C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php on line 248
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php(248): CodeIgniter\Config\Services::validation(Array, Array)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(32): CodeIgniter\Config\BaseService::__callStatic('validation', Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-12 02:35:51 --> CodeIgniter\Config\Services::validation(): Argument #1 ($config) must be of type ?Config\Validation, array given, called in C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php on line 248
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Config\BaseService.php(248): CodeIgniter\Config\Services::validation(Array, Array)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(32): CodeIgniter\Config\BaseService::__callStatic('validation', Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-12 02:46:37 --> Undefined variable $validasi
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_form_matakuliah.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_form_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(25): view('view_form_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 02:58:07 --> Undefined variable $validasi
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_form_matakuliah.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_form_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(34): view('view_form_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:05:30 --> Object of class CodeIgniter\Validation\Validation could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-12 03:05:38 --> Object of class CodeIgniter\Validation\Validation could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-12 03:05:41 --> Object of class CodeIgniter\Validation\Validation could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-12 03:07:38 --> Undefined variable $validasi
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_form_matakuliah.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_form_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(45): view('view_form_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:07:44 --> Undefined variable $validasi
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\view_form_matakuliah.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('view_form_matak...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(45): view('view_form_matak...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:56:20 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(48): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-12 03:56:45 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(48): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-12 03:56:57 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(48): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-12 04:13:07 --> CodeIgniter\HTTP\RedirectResponse::to(): Argument #2 ($code) must be of type ?int, string given, called in C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php on line 48
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(48): CodeIgniter\HTTP\RedirectResponse->to('http://localhos...', '\t<div class="er...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-12 04:13:12 --> CodeIgniter\HTTP\RedirectResponse::to(): Argument #2 ($code) must be of type ?int, string given, called in C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php on line 48
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Matakuliah.php(48): CodeIgniter\HTTP\RedirectResponse->to('http://localhos...', '\t<div class="er...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Matakuliah->cetak()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
