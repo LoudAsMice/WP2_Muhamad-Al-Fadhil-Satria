@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form Input Matakuliah</title>
+    <title><?php echo $title;?></title>
 </head>
 <body>
     <center>
@@ -26,6 +26,7 @@
                 <td>
                     <input type="text" name="kode" id="kode" >
                 </td>
+                <td><span>* <?= $validation->getError('kode');?></span></td>
             </tr>
             <tr>
                 <th>Nama MTK</th>
@@ -33,12 +34,13 @@
                 <td>
                     <input type="text" name="nama" id="nama" >
                 </td>
+                <td><span>* <?= $validation->getError('nama');?></span></td>
             </tr>
             <tr>
                 <th>SKS</th>
                 <th>:</th>
                 <td>
-                    <select name="sks" id="sks" >
+                    <select name="sks" id="sks" required>
                         <option value="">Pilih SKS</option>
                         <option value="2">2</option>
                         <option value="3">3</option>

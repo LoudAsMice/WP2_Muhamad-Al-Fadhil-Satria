@@ -2,14 +2,19 @@
 
 namespace App\Controllers;
 
-use CodeIgniter\HTTP\URI;
 
 class Matakuliah extends BaseController
 {
     
     public function index()
     {
-        return view('view_form_matakuliah');
+        session();
+
+        $data = [
+            'title' => 'Form Input Matakuliah',
+            'validation' => \Config\Services::validation()
+        ];
+        return view('view_form_matakuliah', $data);
     }
 
     public function cetak()
@@ -31,13 +36,14 @@ class Matakuliah extends BaseController
         //     echo $validasi->listErrors();
 
         $rules = [
-            "kode" => "required|min_length[3]",
+            "kode" => "required|min_length[3]|numeric",
             "nama" => "required|min_length[3]"
         ];
         $message = [
             "kode" => [
-                "required" => "Kode Matakuliah Harus Diisi",
-                "min_length" => "Kode terlalu pendek"
+                "required" => "Kode matakuliah harus diisi",
+                "min_length" => "Kode terlalu pendek",
+                "numeric" => "Harus berisi angka"
             ],
             "nama" => [
                 "required" => "Nama Harus Diisi",
@@ -45,7 +51,7 @@ class Matakuliah extends BaseController
             ]
         ];
         if(!$this->validate($rules,$message)){
-            return redirect()->to('http://localhost/WP2_Muhamad-Al-Fadhil-Satria/public/matakuliah');
+            return redirect()->to('../matakuliah')->withInput();
             // echo $validasi->listErrors();
         }else{
 
