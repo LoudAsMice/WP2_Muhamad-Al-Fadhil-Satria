@@ -1,0 +1,1380 @@
+CRITICAL - 2022-06-01 00:01:35 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\autentifikasi\login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-01 00:01:37 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\autentifikasi\login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-01 00:03:04 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 00:03:13 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 00:04:25 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 00:04:31 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 00:04:37 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 00:05:32 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 00:06:56 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 00:09:03 --> Undefined variable $_SESSION
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-01 00:11:51 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(12): redirect('user')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 00:11:56 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(12): redirect('user')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 00:21:42 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(27): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 00:22:01 --> Undefined property: App\Controllers\Autentifikasi::$validation
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-01 00:22:17 --> Undefined property: App\Controllers\Autentifikasi::$form_validation
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-01 00:24:22 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(27): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 00:24:57 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(27): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 00:25:20 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(27): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 00:25:28 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(27): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 00:29:15 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(27): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 01:33:52 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(27): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 02:49:37 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(29): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 02:49:41 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(29): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 02:50:53 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(29): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 02:51:12 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(29): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 02:51:26 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(29): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 02:53:02 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(29): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 02:53:24 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(27): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 02:53:42 --> Email Harus diisi! is not a valid rule.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Email Harus dii...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('0', '0', NULL, Array, Array)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(24): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 05:46:49 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('templates/aute_...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(40): view('templates/aute_...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 05:46:55 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('templates/aute_...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(40): view('templates/aute_...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 05:46:57 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('templates/aute_...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(40): view('templates/aute_...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 05:46:59 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('templates/aute_...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(40): view('templates/aute_...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 05:47:17 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('templates/aute_...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(40): view('templates/aute_...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 05:47:18 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('templates/aute_...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(40): view('templates/aute_...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 05:50:14 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 05:50:16 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 05:50:34 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 05:51:38 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 05:51:40 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 05:51:46 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 05:51:47 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 05:51:54 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 05:51:56 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 05:52:03 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 05:53:31 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('templates/aute_...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(41): view('templates/aute_...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 05:54:56 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('templates/aute_...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(41): view('templates/aute_...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 05:54:57 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('templates/aute_...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(41): view('templates/aute_...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 05:55:02 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('templates/aute_...', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(41): view('templates/aute_...', Array)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 05:56:28 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(14): redirect('user')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-01 05:56:30 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(14): redirect('user')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-01 05:56:45 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(14): redirect('latihan1')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-01 06:06:11 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 06:07:50 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 06:08:56 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 06:08:58 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 06:10:59 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 06:11:01 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-01 07:02:24 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(45): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:02:25 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(45): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:07:48 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(42): redirect('view/autentikas...')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-01 07:07:50 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(42): redirect('view/autentikas...')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-01 07:11:06 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-01 07:14:40 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-01 07:30:56 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(47): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:31:15 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(47): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:32:37 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(47): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:32:42 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(47): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:32:50 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(47): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:34:30 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(47): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:35:47 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(47): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:36:42 --> Class "ModelBuku" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:38:34 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:38:42 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:49:29 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:51:16 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:55:32 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:55:38 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:55:50 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:55:55 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:56:39 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 07:56:41 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 08:01:13 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 08:08:56 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 08:08:58 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 08:09:05 --> Class "ModelUser" not found
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(49): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 08:13:14 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(80): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:14:17 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(80): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:15:33 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(88): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:16:36 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(88): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:16:39 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(88): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:17:39 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(88): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:18:23 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(80): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:19:34 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(80): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:20:06 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(80): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:20:29 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(80): redirect('aa')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:21:06 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(80): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:21:19 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(88): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:21:23 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(88): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:25:11 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(88): redirect('autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 08:29:31 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(88): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(48): App\Controllers\Autentifikasi->_login()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-01 09:01:02 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(43): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 09:01:14 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(43): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 09:02:02 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(43): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 09:02:15 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(43): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 09:02:45 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(43): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 09:04:03 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(43): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 09:04:06 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(43): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 09:04:12 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(43): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 09:09:43 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(43): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 09:09:45 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(43): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 09:11:06 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(83): redirect('Autentifikasi')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(43): App\Controllers\Autentifikasi->_login()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-06-01 09:44:37 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(45): App\Controllers\Autentifikasi->_login()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-01 10:27:53 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header.ph...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header.ph...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:28:15 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header.ph...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header.ph...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:28:17 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header.ph...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header.ph...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:28:31 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header.ph...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header.ph...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:28:41 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:28:42 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:28:51 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:29:06 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:29:12 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:30:46 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:31:07 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:31:19 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:32:47 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:32:49 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\admin\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/header', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/header')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-01 10:36:46 --> Invalid file: login.php
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('login.php', Array, true)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('login.php')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 10:38:54 --> Invalid file: login.php
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('login.php', Array, true)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('login.php')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 10:40:08 --> Invalid file: admin/indexfull.php
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/indexfull...')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/indexfull', Array, true)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(11): view('admin/indexfull')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-01 11:03:28 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:04:07 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:04:09 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:04:41 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:06:54 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:06:55 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:07:13 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:07:15 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:07:53 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:07:55 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:13:21 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:15:06 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:16:33 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:16:36 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:16:40 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:19:03 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:20:11 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-01 11:20:25 --> Object of class App\Models\ModelUser could not be converted to string
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('admin/index', Array, true)
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(12): view('admin/index')
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

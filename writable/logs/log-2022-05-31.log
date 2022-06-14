@@ -1,0 +1,120 @@
+CRITICAL - 2022-05-31 22:45:04 --> Invalid file: template/login.php
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/login....')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('template/login....', Array, true)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(9): view('template/login....')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-31 22:45:29 --> Invalid file: template/login.php
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/login....')
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('template/login....', Array, true)
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(9): view('template/login....')
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-31 23:07:58 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\template\aute_header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('template/aute_h...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(9): view('template/aute_h...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-31 23:08:18 --> Undefined variable $judul
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\template\aute_header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('template/aute_h...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(9): view('template/aute_h...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-31 23:18:45 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\autentifikasi\login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(9): view('autentifikasi/l...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-31 23:25:12 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\autentifikasi\login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(9): view('autentifikasi/l...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-31 23:36:36 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\autentifikasi\login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Home.php(9): view('autentifikasi/l...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-31 23:53:06 --> Undefined variable $_SESSION
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-31 23:53:14 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\autentifikasi\login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-31 23:53:17 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\autentifikasi\login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-31 23:53:49 --> Undefined variable $_SESSION
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-31 23:53:57 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Views\autentifikasi\login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\Common.php(1089): CodeIgniter\View\View->render('autentifikasi/l...', Array, true)
+#4 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\app\Controllers\Autentifikasi.php(21): view('autentifikasi/l...')
+#5 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(832): App\Controllers\Autentifikasi->index()
+#6 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autentifikasi))
+#7 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WP2_Muhamad-Al-Fadhil-Satria\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
